@@ -42,8 +42,7 @@ This project applies Bayesian topic modeling and hierarchical regression to iden
 
 ## Files
 - `tariff_topic_pipeline.ipynb`: Model pipeline and output summary *(available upon request)*
-- `HDP_topic_classifications.csv`: Stock-level posterior summaries
-- `CAR_event_windows.csv`: Event study calculations by ETF and topic
+- `bayesian_stock_tariff_classification.csv`: Stock-level posterior summaries
 
 ## References
 - Huang et al. (2018), *Management Science*: Topic modeling earnings calls
