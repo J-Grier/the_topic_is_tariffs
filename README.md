@@ -35,6 +35,20 @@ This project applies Bayesian topic modeling and hierarchical regression to iden
 | GMM Cluster 1    | 6           | –37.89%      | –70.99%    | 44.63%     | –1.59         |
 | SPY              | 1           | –6.88%       | –16.90%    | 28.13%     | –0.60         |
 
+## Sample Visualizations
+
+### Topic–ETF Correlation Heatmap
+![HDP Topic ETF Correlation](figures/hdp_topic_etf_correlation_heatmap.png)
+
+### Posterior Mean & 90% Credible Intervals (Bayesian Inference)
+![Bayesian Posterior Intervals](figures/posterior_mean_bayesian_distribution.png)
+
+### Cumulative Returns: HDP Resilient vs Sensitive vs SPY
+![HDP Portfolio Returns](figures/hdp_resilient_vs_sensitive_vs_spy.png)
+
+### GMM Clusters vs SPY Benchmark
+![GMM Portfolio Returns](figures/gmm_clusters_vs_spy.png)
+
 ## Why It Matters
 - Topic modeling can serve as more than sentiment tagging—it structures market narratives
 - Bayesian inference offers confidence-aware classifications under noisy returns
