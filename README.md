@@ -38,7 +38,12 @@ This project applies Bayesian topic modeling and hierarchical regression to iden
 ## Sample Visualizations
 
 ### Topic–ETF Correlation Heatmap
-<img src="figures/hdp_topic_etf_correlation_heatmap.png" alt="HDP Topic ETF Correlation Heatmap" width="700"/>
+<details>
+<summary>Click to view Topic–ETF Correlation Heatmap</summary>
+
+![HDP Topic ETF Correlation](figures/hdp_topic_etf_correlation_heatmap.png)
+
+</details>
 
 ### Posterior Mean & 90% Credible Intervals (Bayesian Inference)
 ![Bayesian Posterior Intervals](figures/posterior_mean_bayesian_distribution.png)
